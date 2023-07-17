@@ -1,6 +1,7 @@
 # Geography 328: Lab 4
 
 [Link to Population Density Map](https://calvinuw.github.io/geog328_lab4/pop_density.html)
+
 [Link to Washington State Covid-19 Case Count Map](https://calvinuw.github.io/geog328_lab4/index.html)
 
 The maps made in this repository were created by Calvin Standaert as part of assignment four for the University of Washington's summer 2023 class of GEOG328, taught by Professor Bo Zhao. The first map displays the population density of U.S. States, while the second displays the Covid-19 case counts per 100,000 individuals in Washington State Counties.
