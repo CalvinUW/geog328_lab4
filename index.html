@@ -181,7 +181,7 @@
           // create legend
           const legend = document.getElementById("legend");
           legend.innerHTML =
-            "<b>Covid-19 Cases<br>(cases/100k people)</b><br><br>";
+            "<b>Covid-19 Cases<br>(cases/10k people)</b><br><br>";
 
           layers.forEach((layer, i) => {
             const color = colors[i];
@@ -210,7 +210,7 @@
                   washington[0].properties.name
                 }</h3><p><strong><em>${washington[0].properties.casePer10k.toLocaleString(
                   "en"
-                )}</strong> cases per 100k people</em></p>`
+                )}</strong> cases per 10k people</em></p>`
               : `<p>Hover over a state!</p>`;
         });
       }
